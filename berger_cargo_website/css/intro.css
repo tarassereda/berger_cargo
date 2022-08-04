@@ -1,0 +1,12 @@
+.intro{
+    margin: 0 auto;
+    background-color: white;
+    width: 95%;
+    height: 90vh;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 9px 3px rgba(0,0,0,0.31);
+}
+.intro_main{
+
+}
